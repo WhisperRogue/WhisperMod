@@ -1,0 +1,15 @@
+
+step 1) download the latest version of SMAPI on https://smapi.io/
+
+step 2) Extract the folder inside and run windows-install.exe
+        follow the steps on screen and don't close the window yet
+        copy the second green line with ctrl + c this CAN look like 
+        ""C:\Program Files (x86)\Steam\steamapps\common\Stardew Valley\StardewModdingAPI.exe" %command%"
+        
+step 3) Go to Stardew Valley on steam and right click it. Go to properties.
+        under at Launch Options under General you paste the line you copied at step 2
+        
+step 4) Navigate to the place Stardew Valley is installed. This should be the same place you saw in step 2
+        Open the Mod folder and unzip Whisper.zip into it.
+        
+step 5) Profit.
