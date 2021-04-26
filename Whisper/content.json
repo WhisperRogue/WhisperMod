@@ -1,0 +1,25 @@
+{
+   "Format": "1.22.0",
+   "Changes": [
+	{
+		"Action": "EditImage",
+		"Target": "Characters/Farmer/pants",
+		"FromFile": "assets/pants.png"
+	},
+	{
+		"Action": "EditImage",
+		"Target": "Characters/Farmer/shirts",
+		"FromFile": "assets/shirts.png"
+	},
+	{
+		"Action": "EditImage",
+		"Target": "Characters/Farmer/farmer_girl_base",
+		"FromFile": "assets/farmer_girl_base.png"
+	},	
+	{
+		"Action": "EditImage",
+		"Target": "Characters/Farmer/farmer_base",
+		"FromFile": "assets/farmer_base.png"
+	}
+   ]
+}

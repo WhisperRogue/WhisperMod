@@ -1,0 +1,11 @@
+{
+  "Name": "Whisper Mod",
+  "Author": "Rogue",
+  "Version": "1.0.0",
+  "Description": "Expands on clothing",
+  "UniqueID": "Rogue.WhisperMod",
+  "UpdateKeys": [],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  }
+}
